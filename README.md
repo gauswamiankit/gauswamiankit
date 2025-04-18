@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=4DC7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankit+Gauswami;Flutter+%2B+Node.js+Full+Stack+Dev;Clean+UI%2C+Fast+APIs%2C+Sleek+Code;UI%2FUX+Designer+%7C+Figma+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=800&color=4DC7F7&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Ankit+Gauswami;Flutter+Developer;Backend+Developer;Full+Stack+Developer;Figma+Designer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,6 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=gauswamiankit&style=flat-square&color=blue" alt="Profile views" />
   </a>
 </p>
+
 
 ---
 
