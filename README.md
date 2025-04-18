@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=4DC7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankit+Gauswami;Flutter+%2B+Node.js+Full+Stack+Dev;Clean+UI%2C+Fast+APIs%2C+Sleek+Code;UI%2FUX+Designer+%7C+Figma+Lover" alt="Typing SVG" />
+</h1>
 
-<!--
-**gauswamiankit/gauswamiankit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/gauswamiankit">
+    <img src="https://komarev.com/ghpvc/?username=gauswamiankit&style=flat-square&color=blue" alt="Profile views" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🧠 **3+ years of experience** as a Full Stack Dev  
+- 📱 Specializing in **Flutter** (apps, plugins, clean UI)  
+- 🔧 Backend wizard with **Node.js** (Express, APIs, Auth)  
+- 🎨 UI/UX Designer – **Figma**, motion, interaction design  
+- 🧩 Love modular architecture, smooth animations, pixel-perfect layouts  
+
+---
+
+### 🚀 Tech Stack
+
+#### 🖥️ Frontend & App:
+- Flutter, Dart  
+- Bloc, Provider, Riverpod  
+- Custom Animations, Responsive UI, Adaptive Design  
+
+#### 🔧 Backend:
+- Node.js, Express  
+- MongoDB, MySQL, Firebase  
+- REST APIs, Auth, File Uploads, WebSockets  
+
+#### 🎨 Design:
+- Figma (Prototyping, Components, Design Systems)  
+- Adobe XD, Canva  
+- UX Writing, Flows, Wireframing  
+
+---
+
+### 🔥 Featured Projects
+
+- [`remote_in_app_update`](https://pub.dev/packages/remote_in_app_update)  
+  In-app APK update plugin with speed, ETA, and smooth UI.  
+  *(No extra config, just plug & go.)*
+
+- [`httpagent`](https://pub.dev/packages/httpagent)  
+  HTTP client built with clarity — model parsing, progress, and clean design.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gauswamiankit&show_icons=true&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gauswamiankit&theme=radical&hide_border=true" width="47%" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<a href="mailto:gauswamiankit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/gauswamiankit"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+---
+
+> *“I don't just build apps. I craft experiences.”*
